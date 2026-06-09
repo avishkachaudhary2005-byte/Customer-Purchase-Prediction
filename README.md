@@ -38,4 +38,4 @@ Random Forest achieved the best performance and was selected as the final model.
 - DiscountsAvailed
 
 ## Author
-Your Name
+Avishka Chaudhary
